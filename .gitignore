@@ -1,0 +1,4 @@
+.DS_STORE
+.idea/
+env/
+*/__pycache__/
